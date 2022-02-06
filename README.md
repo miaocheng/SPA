@@ -3,7 +3,7 @@
 The source codes of Sequential Pattern Alignment (SPA) method.
 
 
-This repository contains the resources of the following work.
+This repository contains the resources of the following work. If you find it useful for your current work, I would appreciate if you could cite it in your publications.
 
 
 M. Cheng, W. Yang, et. al., Sequential Pattern Learning via Kernel Alignment, in Proc. International Conference on Advanced Computational Intelligence, Guilin, China, 2019.
