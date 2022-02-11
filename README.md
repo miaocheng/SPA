@@ -10,7 +10,7 @@ M. Cheng, W. Yang, et. al., Sequential Pattern Learning via Kernel Alignment, in
 
 
 
-Remainding: 
+Reminding: 
 
 I have no idea whether the source codes can still work well, as they has been put on hold for a long term. And some packages of R language have been out of maintenance. Many thanks and good luck.
 
